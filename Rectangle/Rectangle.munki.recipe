@@ -33,7 +33,7 @@
 		</dict>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>1.0.0</string>
+	<string>0.0.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.hkim823.download.Rectangle</string>
 	<key>Process</key>
